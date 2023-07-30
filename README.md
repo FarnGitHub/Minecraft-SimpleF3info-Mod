@@ -2,6 +2,9 @@
 ### Description
 A light weight mod for beta 1.7.3 that add more infomation to the debug screen
 
+### Dependencies
+this mod only require Risugami's ModLoader
+
 ### Feature
 - Light level info : *track the brightness of the block you stand at*
 - Biome info : *track the biome that you currently stand at*
