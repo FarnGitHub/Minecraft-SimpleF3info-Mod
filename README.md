@@ -2,6 +2,9 @@
 ### Description
 A light weight mod for beta 1.7.3 that add more infomation to the debug screen
 
+![Screenshot](https://github.com/FarnGitHub/Minecraft-SimpleF3info-Mod/blob/main/2023-07-30_11.25.34.png)
+
+
 ### Dependencies
 this mod only require Risugami's ModLoader
 
