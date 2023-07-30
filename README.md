@@ -14,7 +14,7 @@ any mod that are not conflict with the Dependencies
 ### Feature
 - Light level info : *brightness of the block that you stand at*
 - Biome info : *biome that you stand at*
-- Seed : *minecraft world seed *
+- Seed : *minecraft world seed*
 - Day info : *ingame day counter*
 - Time info : *current ingame times*
 - Chunk coordinate : *coordinates of the chunk that you stand at*
